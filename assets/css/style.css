@@ -521,8 +521,8 @@ figure i {
     background-color: white;
   }
 
-  h1, .hero-h2 {
-    text-align: center;
+  h1, h2 {
+    text-align: justify;
   }
 
   h1 {
